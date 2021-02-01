@@ -1,5 +1,10 @@
 # Coursera_Capstone
-This project is a Applied DS course capstone for traffic accident prediction
+This project is an Applied DS course capstone for the Battle of Neighborhoods
 
-The business problem is to reduce severe accidents and save lives. On one hand, severe accidents can be avoided by means of public policy guidelines in the transportation sector, safety regulations both for pedestrians and drivers. Another solution is to use data driven apprroach to predict accidents. Then based on the predictions, make decisions accordingly. In our case, this can be solved by predicting the probability of severe accident based on the data on hand.
-Further in the analysis, we should adapt our solutions based on the outcomes we get from such analysis. 
+The business problem description and dscussion of the background.
+Introduction where I discuss the business problem and who would be interested in this project.
+Data where I describe the data that will be used to solve the problem and the source of the data.
+Methodology section which represents the main component of the report where I discuss and describe any exploratory data analysis that I did, any inferential statistical testing that was performed, if any, and what machine learnings were used and why. 
+Results section where I discuss the results. Further in the analysis, we should adapt our solutions based on the outcomes we get from such analysis. 
+Discussion section where I discuss any observations you noted and any recommendations you can make based on the results.
+Conclusion section where I conclude the report.
